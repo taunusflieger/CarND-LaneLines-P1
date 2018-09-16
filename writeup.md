@@ -12,7 +12,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images_output/solidYellowCurve_res.jpg "Grayscale"
+[image1]: ./test_images_output/solidYellowCurve.jpg "Grayscale"
 
 ---
 
@@ -42,7 +42,6 @@ It performs the following steps:
 7. The result is stored in a line_buffer which is used when processing video frame to reduce flicker
 8. return the coordinate of the left and right line
 
-Th
 
 The following image shows an example output of the pipeline: 
 
